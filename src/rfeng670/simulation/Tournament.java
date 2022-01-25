@@ -22,7 +22,8 @@ public class Tournament
 						new Desperate(),
 						new Hopeless(),
 						new GrimTriggerButSlightlyBetter(),
-						new MyPlayer()
+						new Sanatan1(),
+						new Sanatan2()
 				};
 		double[] scores = new double[players.length];
 		for(int i = 0; i < players.length; i++)
