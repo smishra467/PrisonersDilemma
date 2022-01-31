@@ -23,7 +23,8 @@ public class Tournament
 						new Hopeless(),
 						new GrimTriggerButSlightlyBetter(),
 						new Sanatan1(),
-						new Sanatan2()
+						new Sanatan2(),
+						new Sanatan3()
 				};
 		double[] scores = new double[players.length];
 		for(int i = 0; i < players.length; i++)

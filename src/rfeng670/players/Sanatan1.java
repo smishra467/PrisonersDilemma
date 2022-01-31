@@ -20,7 +20,7 @@ public class Sanatan1 implements Player {
 	@Override
 	public boolean firstMove() {
 		// TODO Auto-generated method stub
-		return false;
+		return true;
 	}
 	
 	private boolean avg()
