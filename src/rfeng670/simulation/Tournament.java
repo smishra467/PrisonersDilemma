@@ -24,7 +24,8 @@ public class Tournament
 						new GrimTriggerButSlightlyBetter(),
 						new Sanatan1(),
 						new Sanatan2(),
-						new Sanatan3()
+						new Sanatan3(),
+						new Sanatan4()
 				};
 		double[] scores = new double[players.length];
 		for(int i = 0; i < players.length; i++)

@@ -25,7 +25,7 @@ public class Sanatan3 implements Player {
 	@Override
 	public String name() {
 		// TODO Auto-generated method stub
-		return "Sanatan Strategy #3";
+		return "Sanatan Strategy #3 (Opponent Detector)";
 	}
 
 	@Override
